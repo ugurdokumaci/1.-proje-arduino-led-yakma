@@ -1,0 +1,166 @@
+c:\users\yakup saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.exe.config
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.exe
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.pdb
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.dll
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.dll
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.xml
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.xml
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csprojResolveAssemblyReference.cache
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.Form1.resources
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.Properties.Resources.resources
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csproj.GenerateResource.Cache
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.exe
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.pdb
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.dll
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Math.dll
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.xml
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Yakup Saltan\documents\visual studio 2015\Projects\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Math.xml
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.exe.config
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.exe
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.pdb
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.exe
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.pdb
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.dll
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.dll
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Math.dll
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.dll
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.xml
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.xml
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Math.xml
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.xml
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csprojResolveAssemblyReference.cache
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.Form1.resources
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.Properties.Resources.resources
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csproj.GenerateResource.Cache
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.exe.config
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.exe
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.pdb
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.exe
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.pdb
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.dll
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.dll
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Math.dll
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.dll
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.xml
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.xml
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Math.xml
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.xml
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csprojResolveAssemblyReference.cache
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.Form1.resources
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.Properties.Resources.resources
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csproj.GenerateResource.Cache
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.exe.config
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.exe
+C:\Users\Yakup Saltan\Desktop\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.pdb
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.exe.config
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.exe
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.pdb
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.exe
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.pdb
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.dll
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.dll
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Math.dll
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.dll
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.xml
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.xml
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Math.xml
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.xml
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csprojResolveAssemblyReference.cache
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.Form1.resources
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.Properties.Resources.resources
+C:\Users\Yakup Saltan\Desktop\görüntü işleme\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csproj.GenerateResource.Cache
+C:\Users\ÇİSİL\Desktop\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.exe.config
+C:\Users\ÇİSİL\Desktop\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.exe
+C:\Users\ÇİSİL\Desktop\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.pdb
+C:\Users\ÇİSİL\Desktop\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.xml
+C:\Users\ÇİSİL\Desktop\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.xml
+C:\Users\ÇİSİL\Desktop\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\ÇİSİL\Desktop\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Math.xml
+C:\Users\ÇİSİL\Desktop\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.xml
+C:\Users\ÇİSİL\Desktop\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ÇİSİL\Desktop\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csprojAssemblyReference.cache
+C:\Users\ÇİSİL\Desktop\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.Form1.resources
+C:\Users\ÇİSİL\Desktop\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.Properties.Resources.resources
+C:\Users\ÇİSİL\Desktop\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csproj.GenerateResource.cache
+C:\Users\ÇİSİL\Desktop\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csproj.CoreCompileInputs.cache
+C:\Users\ÇİSİL\Desktop\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csproj.CopyComplete
+C:\Users\ÇİSİL\Desktop\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.exe
+C:\Users\ÇİSİL\Desktop\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.pdb
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.exe.config
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.exe
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.pdb
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.xml
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.xml
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Math.xml
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.xml
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csprojAssemblyReference.cache
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.Form1.resources
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.Properties.Resources.resources
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csproj.GenerateResource.cache
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csproj.CoreCompileInputs.cache
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csproj.CopyComplete
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.exe
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\nazmi görüntü proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.pdb
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.exe.config
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.exe
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.pdb
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.xml
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.xml
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Math.xml
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.xml
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csprojAssemblyReference.cache
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.Form1.resources
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.Properties.Resources.resources
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csproj.GenerateResource.cache
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csproj.CoreCompileInputs.cache
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csproj.CopyComplete
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.exe
+C:\Users\ÇİSİL\Desktop\GÖRÜNTÜ RESİMLER\proje örnekleri\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.pdb
+C:\Users\hakan\Desktop\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.exe.config
+C:\Users\hakan\Desktop\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.exe
+C:\Users\hakan\Desktop\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\Renkli_Nesne_Takibi.pdb
+C:\Users\hakan\Desktop\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.xml
+C:\Users\hakan\Desktop\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.xml
+C:\Users\hakan\Desktop\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\hakan\Desktop\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Math.xml
+C:\Users\hakan\Desktop\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.xml
+C:\Users\hakan\Desktop\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\hakan\Desktop\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csprojAssemblyReference.cache
+C:\Users\hakan\Desktop\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.Form1.resources
+C:\Users\hakan\Desktop\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.Properties.Resources.resources
+C:\Users\hakan\Desktop\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csproj.GenerateResource.cache
+C:\Users\hakan\Desktop\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csproj.CoreCompileInputs.cache
+C:\Users\hakan\Desktop\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csproj.CopyComplete
+C:\Users\hakan\Desktop\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.exe
+C:\Users\hakan\Desktop\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.pdb
+C:\Users\asus\Desktop\proje\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\proje\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.Form1.resources
+C:\Users\asus\Desktop\proje\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.Properties.Resources.resources
+C:\Users\asus\Desktop\proje\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\proje\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\proje\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.exe
+C:\Users\asus\Desktop\proje\proje\Renkli_Nesne_Takibi Proje 1-2. aşama\Renkli_Nesne_Takibi\obj\Debug\Renkli_Nesne_Takibi.pdb
